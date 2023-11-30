@@ -13,3 +13,7 @@ Ch2/spelling_en.txt
 Ch3/data
 Ch3/model_cbow.bin
 Ch3/model_skipgram.bin
+
+# venv
+.venv
+poetry.lock
